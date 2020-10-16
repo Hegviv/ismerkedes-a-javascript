@@ -1,0 +1,13 @@
+.tarto{
+    background-color: aliceblue;
+    margin: auto;
+}
+table{
+    margin: auto;
+}
+input{
+    display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40px;
+}
